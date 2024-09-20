@@ -1,14 +1,5 @@
+Pillow==9.3.0
 streamlit==1.26.0
-requests
-Pillow
-zlib1g-dev
-libjpeg-dev
-libtiff-dev
-libfreetype6-dev
-liblcms2-dev
-libwebp-dev
-tcl8.6-dev
-tk8.6-dev
-python3-tk
+
 
 
